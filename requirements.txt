@@ -11,7 +11,6 @@ jupyter
 pandas
 h5py
 pillow
-scikit-image
 lxml
 tensorflow
 keras
