@@ -9,6 +9,8 @@
 This git contains a simple requirements file to lunch MyBinder easily and run code on the cloud. 
 It is very usefull to run quick tests online and work on collaborative notebooks
 
-- Empty Environnement with all ML packages (include Google Drive support):
+  - ML environnement with necessary packages (including Google Drive support ):
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/imadelhanafi/MyBinder-OnlineCollab/master?urlpath=lab)
+	[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/imadelhanafi/MyBinder-OnlineCollab/master?urlpath=lab)
+
+  - To add : Julia/R...
