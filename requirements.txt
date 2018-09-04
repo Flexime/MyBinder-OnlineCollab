@@ -15,5 +15,4 @@ lxml
 tensorflow
 keras
 opencv-python
-pytorch
 git+https://github.com/jupyter/jupyter-drive
