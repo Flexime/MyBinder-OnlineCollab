@@ -16,6 +16,4 @@ tensorflow
 keras
 opencv-python
 pytorch
-xtensor
-xtensor-blas
 git+https://github.com/jupyter/jupyter-drive
