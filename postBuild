@@ -1,4 +1,4 @@
 jupyter labextension install @jupyterlab/google-drive
-conda install xeus-cling
+conda install xeus-cling notebook -c QuantStack -c conda-forge
 conda install -c conda-forge xtensor
 conda install -c conda-forge xtensor-blas
